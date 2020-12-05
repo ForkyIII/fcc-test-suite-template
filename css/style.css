@@ -1,0 +1,12 @@
+//media queries
+@media {}
+
+//custom styles
+#welcome-section {
+    height: 100vh;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+}
