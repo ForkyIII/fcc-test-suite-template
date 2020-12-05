@@ -1,12 +1,16 @@
-//media queries
-@media {}
-
-//custom styles
-#welcome-section {
-    height: 100vh;
-}
-
-#navbar {
-    position: fixed;
-    top: 0;
-}
+/*media queries*/
+@media screen and (max-width: 300px){
+    #welcome-section {
+      height: 50vh;
+    }
+  }
+  
+  /*custom styles*/
+  #welcome-section {
+      height: 100vh;
+  }
+  
+  #navbar {
+      position: fixed;
+      top: 0;
+  }
